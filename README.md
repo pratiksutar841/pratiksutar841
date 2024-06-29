@@ -4,12 +4,12 @@
  
  
    👀 I’m interested in Python development and designing.
-   🌱 I’m currently learning Java Full Stack
+   🌱 I’m currently learning Data Science 
    💞️ I love coding + learning + repeating ✨
    👉🏻 How to reach me pratiksutar841.com
    📫 Connect with me linkedin.com/in/pratik-sutar-
 <h1 align="center">Hi 👋, I'm Pratik Sutar</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate Python developer from India</h3>
 
 - 📫 How to reach me **pratiksutar841@gmail.com**
 
